@@ -53,14 +53,8 @@ Transforming data into clear insights to guide business decisions. Key strengths
 
 <p align="center">
   <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasmen-Samir&show_icons=true&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmen-Samir&theme=tokyonight" />
 </p>
-
-<!-- Top languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmen-Samir&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ⭐️ *Thanks for stopping by! Feel free to explore my repositories or connect with me on LinkedIn.*
