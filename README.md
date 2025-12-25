@@ -3,8 +3,8 @@
 
 ---
 
-<h4> Transforming data into clear insights to guide business decisions.</h4>
-<h5> Key strengths: </h5> 
+<p> Transforming data into clear insights to guide business decisions.</p>
+<p> Key strengths: </p> 
 
 - 🧩 **Data Modeling:** Designing scalable, efficient database structures  
 - ⚙️ **ETL Optimization:** Automating processes for faster, error-free reporting  
