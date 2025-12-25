@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yasmen Samir</h1>
-<h3 align="center">A passionate Data Anlyst BI Developer from</h3>
+<h3 align="center">A passionate Data Anlyst & BI Developer from</h3>
 
 ---
 
-Transforming data into clear insights to guide business decisions. Key strengths:  
+<h4> Transforming data into clear insights to guide business decisions.</h4>
+<h5> Key strengths: </h5> 
 
 - 🧩 **Data Modeling:** Designing scalable, efficient database structures  
 - ⚙️ **ETL Optimization:** Automating processes for faster, error-free reporting  
@@ -30,11 +31,12 @@ Transforming data into clear insights to guide business decisions. Key strengths
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSIS-0078D7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SSRS-0078D7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SSAS-0078D7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSRS-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSAS-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-6A0DAD?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
